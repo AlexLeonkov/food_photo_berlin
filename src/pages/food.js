@@ -15,7 +15,7 @@ function food() {
               <a href="#news">Clients</a>
             </li>
             <li>
-              <Link to="/about">About + Contact</Link>
+              <Link to="/food_photo_berlin/about">About + Contact</Link>
             </li>
           </ul>
         </nav>
