@@ -49,7 +49,7 @@ import img6 from "./img6.JPEG";
 import img109 from "./img109.JPEG";
 import img222 from "./img222.JPEG";
 import img75 from "./img75.JPEG";
-import img152 from "./img152.JPEG";
+import img151 from "./img151.JPEG";
 import img173 from "./img173.JPEG";
 import img31 from "./img32.JPEG";
 import img134 from "./img134.JPEG";
@@ -64,8 +64,8 @@ import img251 from "./img251.JPEG";
 import img117 from "./img117.JPEG";
 import img11 from "./img11.JPEG";
 import img46 from "./img46.JPEG";
-import img150 from "./img159.JPEG";
-import img91 from "./img191.JPEG";
+import img150 from "./img150.JPEG";
+import img91 from "./img91.JPEG";
 import img137 from "./img137.JPEG";
 import img212 from "./img212.JPEG";
 import img93 from "./img93.JPEG";
@@ -105,7 +105,6 @@ const interiorImages = [
   img228,
   img112,
   img147,
-
   img234,
   img224,
   img232,
@@ -123,7 +122,7 @@ const interiorImages = [
   img109,
   img222,
   img75,
-  img152,
+  img151,
   img173,
   img31,
   img134,
