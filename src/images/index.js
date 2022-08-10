@@ -22,7 +22,7 @@ import img155 from "./img155.JPEG";
 import img12 from "./img12.JPEG";
 import img195 from "./img195.JPEG";
 
-const images = [
+const foodImages = [
   img2,
   img26,
   img86,
@@ -46,4 +46,4 @@ const images = [
   img195,
   img16,
 ];
-export { images };
+export { foodImages };

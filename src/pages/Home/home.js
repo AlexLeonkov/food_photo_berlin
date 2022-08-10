@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img1 from "../../images/img1.JPEG";
-import img2 from "../../images/img2.JPEG";
-import img250 from "../../images/img250.JPEG";
+import img1 from "../../images/horizont/img1_2.jpg";
+import img2 from "../../images/horizont/img2_2.jpg";
+import img250 from "../../images/horizont/img250_2.jpg";
 
-import img251 from "../../images/img251.JPEG";
+import img251 from "../../images/horizont/img251_2.jpg";
 import { useState } from "react";
 
 function Home() {

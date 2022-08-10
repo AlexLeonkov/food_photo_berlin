@@ -1,32 +1,19 @@
 import React from "react";
-import { images } from "../images/index";
+import { foodImages } from "../images/index";
 import { Link } from "react-router-dom";
+import Header from "../layout/header";
 
 function food() {
   return (
     <div>
-      <header className="header">
-        <nav className="navbar">
-          <ul id="navbar" className="menu">
-            <li>
-              <a href="#home">Portfolio</a>
-            </li>
-            <li>
-              <a href="#news">Clients</a>
-            </li>
-            <li>
-              <Link to="/food_photo_berlin/about">About + Contact</Link>
-            </li>
-          </ul>
-        </nav>
-      </header>
+      <Header />
 
       <main>
         <div className="row">
-          {images.map((image, index) => {
+          {foodImages.map((image, index) => {
             return (
               <div key={index} className="column">
-                <img  src={image} alt={index} />
+                <img src={image} alt={index} />
               </div>
             );
           })}
