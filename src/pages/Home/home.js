@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import img1 from "../../images/horizont/img1_2.jpg";
-import img2 from "../../images/horizont/img2_2.jpg";
+import img2 from "../../images/horizont/img2_4.jpg";
 import img250 from "../../images/horizont/img250_2.jpg";
 
 import img251 from "../../images/horizont/img251_2.jpg";
