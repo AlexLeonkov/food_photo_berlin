@@ -10,7 +10,7 @@ function About() {
         <nav class="navbar">
           <ul id="navbar" className="menu">
             <li>
-              <Link to="/food_photo_berlin">Food</Link>
+              <Link to="/food_photo_berlin">Main</Link>
             </li>
             <li>
               <a href="#news">Clients</a>

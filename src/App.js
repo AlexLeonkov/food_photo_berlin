@@ -8,10 +8,15 @@ import HomeMobile from "./pages/Home/home_mobile";
 import Drinks from "./pages/drinks";
 
 function App() {
+  const isMobile = window.innerWidth <= 500;
+  console.log(isMobile);
   return (
     <div className="App">
       <Routes>
-        <Route path="/food_photo_berlin/" element={<HomeMobile />}></Route>
+        <Route
+          path="/food_photo_berlin/"
+          element={isMobile ? <HomeMobile /> : <Home />}
+        ></Route>
         {/* <Route path="/food_photo_berlin/" element={<Home />}></Route> */}
         <Route path="/food_photo_berlin/food" element={<Food />}></Route>
         <Route path="/food_photo_berlin/drinks" element={<Drinks />}></Route>
