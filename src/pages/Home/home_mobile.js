@@ -18,7 +18,7 @@ const images = ["../../images/horizont/img251_2.jpg"];
 function HomeMobile() {
   return (
     <div className="mobile">
-      <Link to="/food_photo_berlin/food">
+      <Link to="/food_photo_berlin/about">
         <section
           style={{
             height: "100vh",
