@@ -1,16 +1,16 @@
 import React from "react";
-import { foodImages, interiorImages } from "../images/index";
+import { drinksImages } from "../images/index";
 import { Link } from "react-router-dom";
 import Header from "../layout/header";
 
-function interior() {
+function drinks() {
   return (
     <div>
       <Header />
 
       <main>
         <div className="row">
-          {interiorImages.map((image, index) => {
+          {drinksImages.map((image, index) => {
             return (
               <div key={index} className="column">
                 <img src={image} alt={index} />
@@ -19,12 +19,10 @@ function interior() {
           })}
         </div>
 
-      
-
-        <h1 className="main_title">Interior Photography Berlin</h1>
+        <h1 className="main_title">Drinks Photography Berlin</h1>
       </main>
     </div>
   );
 }
 
-export default interior;
+export default drinks;
