@@ -2,6 +2,7 @@ import React from "react";
 import { foodImages } from "../images/index";
 import { Link } from "react-router-dom";
 import Header from "../layout/header";
+import video from "../videos/video1.mp4";
 
 function food() {
   return (

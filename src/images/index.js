@@ -51,7 +51,7 @@ import img222 from "./img222.JPEG";
 import img75 from "./img75.JPEG";
 import img151 from "./img151.JPEG";
 import img173 from "./img173.JPEG";
-import img31 from "./img32.JPEG";
+import img31 from "./img31.JPEG";
 import img134 from "./img134.JPEG";
 import img62 from "./img62.JPEG";
 import img144 from "./img144.JPEG";
@@ -122,7 +122,7 @@ const interiorImages = [
   img109,
   img222,
   img75,
-  img151,
+  // img151,
   img173,
   img31,
   img134,
@@ -130,6 +130,7 @@ const interiorImages = [
   img144,
   img248,
   img120,
+  img250
 ];
 
 const foodImages = [

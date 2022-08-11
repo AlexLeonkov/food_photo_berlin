@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/food_photo_berlin/static/css/main.f7291131.css",
-    "main.js": "/food_photo_berlin/static/js/main.6d4885d0.js",
+    "main.css": "/food_photo_berlin/static/css/main.2f427d90.css",
+    "main.js": "/food_photo_berlin/static/js/main.55952cbd.js",
+    "static/media/video1.mp4": "/food_photo_berlin/static/media/video1.9411abd875dec6b45ca7.mp4",
     "static/media/img204.JPEG": "/food_photo_berlin/static/media/img204.1b31bf75a1d1c4b30838.JPEG",
     "static/media/img195.JPEG": "/food_photo_berlin/static/media/img195.fa1ebbe191cf48e01666.JPEG",
     "static/media/img39.JPEG": "/food_photo_berlin/static/media/img39.66fb7725b363e7a54110.JPEG",
@@ -49,8 +50,8 @@
     "static/media/img234.JPEG": "/food_photo_berlin/static/media/img234.fbff8a791b296dc79da2.JPEG",
     "static/media/img160.JPEG": "/food_photo_berlin/static/media/img160.e23d049ed9e38e9bd008.JPEG",
     "static/media/img86.JPEG": "/food_photo_berlin/static/media/img86.515eccd5af45a70a0815.JPEG",
-    "static/media/img32.JPEG": "/food_photo_berlin/static/media/img32.a47bc858714a57ebeb6d.JPEG",
     "static/media/img125.JPEG": "/food_photo_berlin/static/media/img125.600983f2c663a2444739.JPEG",
+    "static/media/img31.JPEG": "/food_photo_berlin/static/media/img31.99d71dd1440f6296fa91.JPEG",
     "static/media/img151.JPEG": "/food_photo_berlin/static/media/img151.e92aeb8038c1a6a11a0c.JPEG",
     "static/media/img85.JPEG": "/food_photo_berlin/static/media/img85.8090189ca651708a05fe.JPEG",
     "static/media/img53.JPEG": "/food_photo_berlin/static/media/img53.a63323f8bedc1f0d8288.JPEG",
@@ -83,11 +84,11 @@
     "static/media/img212.JPEG": "/food_photo_berlin/static/media/img212.79b4352c002f8ce81c1a.JPEG",
     "static/media/about.jpg": "/food_photo_berlin/static/media/about.d879efa38b5a19f0847a.jpg",
     "index.html": "/food_photo_berlin/index.html",
-    "main.f7291131.css.map": "/food_photo_berlin/static/css/main.f7291131.css.map",
-    "main.6d4885d0.js.map": "/food_photo_berlin/static/js/main.6d4885d0.js.map"
+    "main.2f427d90.css.map": "/food_photo_berlin/static/css/main.2f427d90.css.map",
+    "main.55952cbd.js.map": "/food_photo_berlin/static/js/main.55952cbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7291131.css",
-    "static/js/main.6d4885d0.js"
+    "static/css/main.2f427d90.css",
+    "static/js/main.55952cbd.js"
   ]
 }

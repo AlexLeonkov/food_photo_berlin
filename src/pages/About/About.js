@@ -2,6 +2,7 @@ import React from "react";
 import about from "../../images/about.jpg";
 import { Link } from "react-router-dom";
 import Form from "../../components/FormTemplate";
+import video from "../../videos/video1.mp4";
 
 function About() {
   return (
@@ -52,6 +53,10 @@ function About() {
             </a>
           </p>
         </div>
+      </div>
+
+      <div>
+        <video autoPlay="true" muted="true" src={video} />
       </div>
 
       <div className="form">
