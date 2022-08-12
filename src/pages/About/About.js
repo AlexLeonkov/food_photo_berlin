@@ -8,7 +8,7 @@ function About() {
   return (
     <div>
       <div className="header_about">
-        <nav class="navbar">
+        <nav className="navbar_about">
           <ul id="navbar" className="menu">
             <li>
               <Link to="/food_photo_berlin">Main</Link>
@@ -42,7 +42,7 @@ function About() {
         </a>
       </div>
 
-      <div class="container">
+      <div className="container">
         <div>
           <h2>Contact information</h2>
           <p>+491794221182</p>
@@ -53,10 +53,6 @@ function About() {
             </a>
           </p>
         </div>
-      </div>
-
-      <div>
-        <video autoPlay="true" muted="true" src={video} />
       </div>
 
       <div className="form">
