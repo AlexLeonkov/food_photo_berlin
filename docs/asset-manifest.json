@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/food_photo_berlin/static/css/main.6ada12bc.css",
-    "main.js": "/food_photo_berlin/static/js/main.b42455b1.js",
+    "main.css": "/food_photo_berlin/static/css/main.d1825296.css",
+    "main.js": "/food_photo_berlin/static/js/main.e998ce85.js",
     "static/media/video1.mp4": "/food_photo_berlin/static/media/video1.9411abd875dec6b45ca7.mp4",
     "static/media/img204.JPEG": "/food_photo_berlin/static/media/img204.1b31bf75a1d1c4b30838.JPEG",
     "static/media/img195.JPEG": "/food_photo_berlin/static/media/img195.fa1ebbe191cf48e01666.JPEG",
@@ -84,11 +84,11 @@
     "static/media/img212.JPEG": "/food_photo_berlin/static/media/img212.79b4352c002f8ce81c1a.JPEG",
     "static/media/about.jpg": "/food_photo_berlin/static/media/about.d879efa38b5a19f0847a.jpg",
     "index.html": "/food_photo_berlin/index.html",
-    "main.6ada12bc.css.map": "/food_photo_berlin/static/css/main.6ada12bc.css.map",
-    "main.b42455b1.js.map": "/food_photo_berlin/static/js/main.b42455b1.js.map"
+    "main.d1825296.css.map": "/food_photo_berlin/static/css/main.d1825296.css.map",
+    "main.e998ce85.js.map": "/food_photo_berlin/static/js/main.e998ce85.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ada12bc.css",
-    "static/js/main.b42455b1.js"
+    "static/css/main.d1825296.css",
+    "static/js/main.e998ce85.js"
   ]
 }
