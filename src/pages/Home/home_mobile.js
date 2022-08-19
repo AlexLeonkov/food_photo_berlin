@@ -5,10 +5,9 @@ import img2 from "../../images/vertical/img2_5.jpg";
 import img250 from "../../images/vertical/img250_3.jpg";
 
 import img251 from "../../images/vertical/img251_3.jpg";
-import { useState } from "react";
-import { Slide } from "react-slideshow-image";
+
 import "react-slideshow-image/dist/styles.css";
-import { Swiper, SwiperSlide } from "swiper/react";
+
 
 import "swiper/css";
 import "swiper/css/free-mode";
